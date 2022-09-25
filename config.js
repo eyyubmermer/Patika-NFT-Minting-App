@@ -1,0 +1,1 @@
+export const patikaadress = "0x01C21efb274b0D5ceb802067f9d6cFa122c5C04a"
